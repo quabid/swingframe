@@ -1,4 +1,4 @@
-#### _Swing GUI_
+#### _Swing Frame_
 
 ##### _A jar containing a customized abstract JFrame. The JFrame contains built-in location management that saves and restores the frames's last known position._
 
